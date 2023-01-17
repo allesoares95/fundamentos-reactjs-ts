@@ -17,7 +17,7 @@ const posts = [
     content: [
       {type: 'paragraph', content: 'Fala galeraa 👋',},
       {type: 'paragraph', content: 'Acabei de subir mais um projeto no meu GitHub 🚀'},
-      {type: 'link', content: 'allesoares95/fundamentos-react' },
+      {type: 'link', content: 'allesoares95/fundamentos-react-ts' },
     ], 
     publishedAt: new Date('2023-01-14 12:30:00'),
   },
